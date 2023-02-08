@@ -1,0 +1,33 @@
+1)What is statically type and dynamically typed programming language?
+
+-> Statically type programming language in which we have to specify the data type of the variabl by our own before compile time such as java c++ and c are statically programming language and dynamically programming language in which compiler automatically detect the data type of the variable and we dont have to specify it such as python.
+
+2)What is the variable in java ?
+
+-> variable is a container which hold the value while the javaProgram is executed. A variable is assigned with a data type.
+
+3)How to assign a value to a variable?
+
+->by using assignment operator.
+
+4)What are Primitive data type in java?
+
+->Primitive data type are the bulding blocks of data manipulation. These are the most basic datatype available in java language
+
+5)What are the identifier in java ?
+->All java variable must be identified by unique name these unique names are known as identifiers.
+
+6)List the operator in java?
+
+->unary operator
+arithmatic operator
+shift operator 
+relational 
+bitwise 
+logical
+ternary
+assignment operator
+
+7)explain about increment and decrement operator and give an example?
+
+-> the increment operator is an operator which is used to increase the value of a variable by 1, on which it is applied.The Decrement operator is an operator which is used to decrease the value of the variable by 1, on which it is applied.
